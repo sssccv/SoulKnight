@@ -15,7 +15,23 @@
 				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/Characters/Souls/M_Neutral_Run_Loop_LL.uasset",
 				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/Characters/Souls/M_Neutral_Run_Loop_LR.uasset",
 				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/Characters/Souls/M_Neutral_Run_Loop_RL.uasset",
-				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/Characters/Souls/M_Neutral_Stand_Idle_Loop.uasset"
+				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/Characters/Souls/M_Neutral_Stand_Idle_Loop.uasset",
+				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_B.uasset",
+				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_BL.uasset",
+				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_BR.uasset",
+				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_F.uasset",
+				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_FL.uasset",
+				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_FR.uasset",
+				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_LL.uasset",
+				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_LR.uasset",
+				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_RL.uasset",
+				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/Characters/Souls/Movement/M_Neutral_Stand_Idle_Loop.uasset",
+				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/Characters/Souls/Movement/BS_StrafeMovement.uasset",
+				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/ThirdPerson/Input/Actions/IA_Lock.uasset",
+				"C:/Users/PC/Desktop/SoulKnight/SoulLike/Content/Blueprints/BPC_Combat.uasset"
 			]
 		}
 	]
